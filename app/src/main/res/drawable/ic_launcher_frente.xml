@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Luna creciente (Mena, los ciclos) que abraza una gota (Eir, la sanación). -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <path android:fillColor="#FBF4EC"
+        android:pathData="M58,26 A28,28 0 1,0 58,82 A34,34 0 0,1 58,26 Z" />
+    <path android:fillColor="#F2D3CB"
+        android:pathData="M62,38 C62,38 74,52 74,60 A12,12 0 0,1 50,60 C50,52 62,38 62,38 Z" />
+</vector>
