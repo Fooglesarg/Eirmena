@@ -38,7 +38,7 @@ Para firmar el release hace falta `firma/firma.properties`, que no está en el r
 
 GPL-3.0 (ver `LICENSE`). Cualquiera puede leer, usar y modificar el código; las versiones modificadas tienen que seguir siendo libres bajo la misma licencia.
 
-Tipografías: Comfortaa y Outfit, bajo SIL Open Font License.
+Tipografías: Comfortaa (con nombre reservado "Comfortaa") y Outfit, sin modificar, bajo la SIL Open Font License 1.1. Los textos completos de las tres licencias están en `app/src/main/assets/licencias/` y se pueden leer desde la app, en Ajustes › Acerca de Eirmena › Licencias.
 
 ---
 
